@@ -1,1 +1,66 @@
 \expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\toclof{1}{\csname a:TocLink\endcsname{1}{x1-21}{}{\ignorespaces Distribution of Estimates of Habit Persistence in Macro and Micro Studies}}{figure}\relax 
+\doTocEntry\tocsection{I}{\csname a:TocLink\endcsname{1}{x1-1000I}{QQ2-1-2}{Background and Literature Review}}{5}\relax 
+\doTocEntry\tocsubsection{A}{\csname a:TocLink\endcsname{1}{x1-2000A}{QQ2-1-3}{Imperfect Information}}{5}\relax 
+\doTocEntry\tocsubsection{B}{\csname a:TocLink\endcsname{1}{x1-3000B}{QQ2-1-4}{Microfoundations}}{7}\relax 
+\doTocEntry\tocsection{II}{\csname a:TocLink\endcsname{1}{x1-4000II}{QQ2-1-5}{A Quadratic Utility `Toy Model'}}{8}\relax 
+\doTocEntry\tocsubsection{A}{\csname a:TocLink\endcsname{1}{x1-5000A}{QQ2-1-6}{Sticky Expectations}}{9}\relax 
+\doTocEntry\tocsubsection{B}{\csname a:TocLink\endcsname{1}{x1-6000B}{QQ2-1-7}{Aggregation}}{11}\relax 
+\doTocEntry\tocsection{III}{\csname a:TocLink\endcsname{1}{x1-7000III}{QQ2-1-8}{Realistic Model}}{13}\relax 
+\doTocEntry\tocsubsection{A}{\csname a:TocLink\endcsname{1}{x1-8000A}{QQ2-1-9}{Output, Income, and Productivity}}{13}\relax 
+\doTocEntry\tocsubsection{B}{\csname a:TocLink\endcsname{1}{x1-9000B}{QQ2-1-10}{Perceptions and Behavior}}{15}\relax 
+\doTocEntry\tocsubsection{C}{\csname a:TocLink\endcsname{1}{x1-10000C}{QQ2-1-11}{Transition Dynamics}}{18}\relax 
+\doTocEntry\tocsubsection{D}{\csname a:TocLink\endcsname{1}{x1-11000D}{QQ2-1-12}{Aggregation}}{20}\relax 
+\doTocEntry\tocsubsection{E}{\csname a:TocLink\endcsname{1}{x1-12000E}{QQ2-1-13}{Model Solution}}{22}\relax 
+\doTocEntry\tocsubsection{F}{\csname a:TocLink\endcsname{1}{x1-13000F}{QQ2-1-14}{Frictionless vs Sticky Expectations}}{24}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-140009}{QQ2-1-15}{Alternative Beliefs About the Aggregate Income Process}}{26}\relax 
+\doTocEntry\tocsubsection{G}{\csname a:TocLink\endcsname{1}{x1-15000G}{QQ2-1-16}{Calibration}}{26}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-16000G}{QQ2-1-17}{Small Aggregate Shocks and Consumption Concavity}}{27}\relax 
+\doTocEntry\toclot{1}{\csname a:TocLink\endcsname{1}{x1-160011}{}{\ignorespaces Calibration}}{table}\relax 
+\doTocEntry\tocsection{IV}{\csname a:TocLink\endcsname{1}{x1-17000IV}{QQ2-1-19}{Results}}{31}\relax 
+\doTocEntry\tocsubsection{A}{\csname a:TocLink\endcsname{1}{x1-18000A}{QQ2-1-20}{U.S. Empirical Benchmark}}{31}\relax 
+\doTocEntry\toclot{2}{\csname a:TocLink\endcsname{1}{x1-180052}{}{\ignorespaces Aggregate Consumption Dynamics in US Data}}{table}\relax 
+\doTocEntry\tocsubsection{B}{\csname a:TocLink\endcsname{1}{x1-19000B}{QQ2-1-22}{Simulated Small Open Economy Empirical Estimation}}{37}\relax 
+\doTocEntry\toclot{3}{\csname a:TocLink\endcsname{1}{x1-190033}{}{\ignorespaces Aggregate Consumption Dynamics in SOE Model}}{table}\relax 
+\doTocEntry\tocsubsection{C}{\csname a:TocLink\endcsname{1}{x1-20000C}{QQ2-1-24}{Simulated Micro Empirical Estimation}}{41}\relax 
+\doTocEntry\toclot{4}{\csname a:TocLink\endcsname{1}{x1-200024}{}{\ignorespaces Micro Consumption Regression on Simulated Data}}{table}\relax 
+\doTocEntry\tocsubsection{D}{\csname a:TocLink\endcsname{1}{x1-21000D}{QQ2-1-26}{Excess Sensitivity of Consumption}}{48}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-22000D}{QQ2-1-27}{Relation to the Literature}}{48}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-23000D}{QQ2-1-28}{Excess Sensitivity of Consumption to a Fiscal Stimulus}}{49}\relax 
+\doTocEntry\toclof{2}{\csname a:TocLink\endcsname{1}{x1-230012}{}{\ignorespaces Effects of Fiscal Stimulus Payments on Consumption, Models vs. Data}}{figure}\relax 
+\doTocEntry\tocsection{V}{\csname a:TocLink\endcsname{1}{x1-24000V}{QQ2-1-30}{The Utility Costs of Sticky Expectations}}{53}\relax 
+\doTocEntry\toclof{3}{\csname a:TocLink\endcsname{1}{x1-240073}{}{\ignorespaces Costs of Stickiness $\omega $ and Probability of Aggregate Information Updating $\Pi $}}{figure}\relax 
+\doTocEntry\tocsection{VI}{\csname a:TocLink\endcsname{1}{x1-25000VI}{QQ2-1-32}{Muth--Lucas--Pischke and \cite  {reis:inattentive}}}{59}\relax 
+\doTocEntry\tocsubsection{A}{\csname a:TocLink\endcsname{1}{x1-26000A}{QQ2-1-33}{Muth--Lucas--Pischke}}{60}\relax 
+\doTocEntry\tocsubsection{B}{\csname a:TocLink\endcsname{1}{x1-27000B}{QQ2-1-34}{\cite  {reis:inattentive}}}{61}\relax 
+\doTocEntry\tocsection{VII}{\csname a:TocLink\endcsname{1}{x1-28000VII}{QQ2-1-35}{Conclusion}}{61}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-29000VII}{QQ2-1-36}{References}}{63}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-30000VII}{QQ2-1-37}{Notes}}{72}\relax 
+\doTocEntry\tocsection{A}{\csname a:TocLink\endcsname{1}{x1-31000A}{QQ2-1-38}{Calibration}}{73}\relax 
+\doTocEntry\tocsubsection{A}{\csname a:TocLink\endcsname{1}{x1-32000A}{QQ2-1-39}{Macroeconomic Calibration}}{73}\relax 
+\doTocEntry\tocsubsection{B}{\csname a:TocLink\endcsname{1}{x1-33000B}{QQ2-1-40}{Calibration of Idiosyncratic Shocks}}{75}\relax 
+\doTocEntry\tocsection{B}{\csname a:TocLink\endcsname{1}{x1-34000B}{QQ2-1-41}{Heterogeneous Agents Dynamic Stochastic General Equilibrium (HA-DSGE) Model}}{76}\relax 
+\doTocEntry\tocsubsection{A}{\csname a:TocLink\endcsname{1}{x1-35000A}{QQ2-1-42}{Model and Solution}}{76}\relax 
+\doTocEntry\tocsubsection{B}{\csname a:TocLink\endcsname{1}{x1-36000B}{QQ2-1-43}{Frictionless vs Sticky Expectations}}{78}\relax 
+\doTocEntry\tocsubsection{C}{\csname a:TocLink\endcsname{1}{x1-37000C}{QQ2-1-44}{Results}}{80}\relax 
+\doTocEntry\toclot{5}{\csname a:TocLink\endcsname{1}{x1-370015}{}{\ignorespaces Equilibrium Statistics}}{table}\relax 
+\doTocEntry\toclot{6}{\csname a:TocLink\endcsname{1}{x1-370036}{}{\ignorespaces Aggregate Consumption Dynamics in HA-DSGE Model}}{table}\relax 
+\doTocEntry\tocsection{C}{\csname a:TocLink\endcsname{1}{x1-38000C}{QQ2-1-47}{Representative Agent (RA) Model}}{86}\relax 
+\doTocEntry\tocsubsection{A}{\csname a:TocLink\endcsname{1}{x1-39000A}{QQ2-1-48}{Model and Solution}}{86}\relax 
+\doTocEntry\tocsubsection{B}{\csname a:TocLink\endcsname{1}{x1-40000B}{QQ2-1-49}{Frictionless vs Sticky Expectations}}{88}\relax 
+\doTocEntry\tocsubsection{C}{\csname a:TocLink\endcsname{1}{x1-41000C}{QQ2-1-50}{Simulation Results}}{90}\relax 
+\doTocEntry\toclot{7}{\csname a:TocLink\endcsname{1}{x1-410017}{}{\ignorespaces Aggregate Consumption Dynamics in RA Model}}{table}\relax 
+\doTocEntry\tocsection{D}{\csname a:TocLink\endcsname{1}{x1-42000D}{QQ2-1-52}{Numerical Methods}}{93}\relax 
+\doTocEntry\tocsubsection{A}{\csname a:TocLink\endcsname{1}{x1-43000A}{QQ2-1-53}{Solution Methods}}{93}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-44000A}{QQ2-1-54}{Small Open Economy Solution Details}}{93}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-45000A}{QQ2-1-55}{Dynamic Stochastic General Equilibrium Solution Details}}{95}\relax 
+\doTocEntry\tocsubsection{B}{\csname a:TocLink\endcsname{1}{x1-46000B}{QQ2-1-56}{Simulation Procedures}}{97}\relax 
+\doTocEntry\tocsubsection{C}{\csname a:TocLink\endcsname{1}{x1-47000C}{QQ2-1-57}{Cost of Stickiness Calculation}}{99}\relax 
+\doTocEntry\tocsection{E}{\csname a:TocLink\endcsname{1}{x1-48000E}{QQ2-1-58}{Muth--Lucas--Pischke}}{101}\relax 
+\doTocEntry\tocsection{F}{\csname a:TocLink\endcsname{1}{x1-49000F}{QQ2-1-59}{Alternate Belief Specification}}{102}\relax 
+\doTocEntry\toclot{8}{\csname a:TocLink\endcsname{1}{x1-490028}{}{\ignorespaces Aggregate Consumption Dynamics in SOE Model (Alternate Beliefs)}}{table}\relax 
+\doTocEntry\tocsection{G}{\csname a:TocLink\endcsname{1}{x1-50000G}{QQ2-1-61}{Additional Calculations}}{107}\relax 
+\doTocEntry\tocsubsection{A}{\csname a:TocLink\endcsname{1}{x1-51000A}{QQ2-1-62}{Quadratic Utility Consumption Dynamics}}{107}\relax 
+\doTocEntry\tocsubsection{B}{\csname a:TocLink\endcsname{1}{x1-52000B}{QQ2-1-63}{Population Variance of Idiosyncratic Permanent Income}}{110}\relax 
+\doTocEntry\tocsubsection{C}{\csname a:TocLink\endcsname{1}{x1-53000C}{QQ2-1-64}{Converting Annual to Quarterly Variances for Idiosyncratic Shocks}}{112}\relax 
+\doTocEntry\tocsubsection{D}{\csname a:TocLink\endcsname{1}{x1-54000D}{QQ2-1-65}{\cite  {muthOptimal} Signal Extraction}}{112}\relax 
