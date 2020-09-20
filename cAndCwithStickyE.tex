@@ -4,7 +4,6 @@
 \documentclass[titlepage]{\econtex}
 \newcommand{\texname}{cAndCwithStickyE}
 \usepackage{\econtexSetup}\usepackage{\econtexShortcuts}
-%\usepackage[nolists,nomarkers,tablesonly]{endfloat}
 \usepackage{datetime}
 \setcounter{secnumdepth}{4}
 \input{./Revision/Notation.tex}
@@ -59,7 +58,6 @@
 \makeatother
 
 \begin{document}\bibliographystyle{\econtexBibStyle}
-%\begin{adjustwidth}{-1em}{-1em}
 
   \begin{verbatimwrite}{\jobname.title}
     Sticky Expectations and Consumption Dynamics
@@ -148,11 +146,11 @@
 
   \setcounter{page}{1}
 
-%\end{adjustwidth}
 \titlepagefinish
 
 % If web version, then just incorporate thanks at beginning of text instead of in frontmatter
 \ifthenelse{\boolean{ifWeb}}{\medskip \noindent {
+
 \footnotesize \thankstext \medskip \medskip \medskip  }}{\pagebreak } % \end{Web}
 \setcounter{page}{1}
 
@@ -169,6 +167,7 @@
 
   \begin{flushleft}
     
+
 \footnotesize Notes: Reproduced from \cite{hrsHabit}, Figure~2. The figure shows the distribution of estimates of habit persistence in studies based on macro and micro data. Solid and dashed lines show the median estimates in micro (0.0) and macro (0.6) studies, respectively.
   \end{flushleft}
 \end{figure}
@@ -812,6 +811,7 @@ The table's lower panel contains results from estimating the same regressions on
 
     \begin{flushleft}
       
+
 \footnotesize Notes: The figure shows how consumption reacts to a fiscal stimulus payment in data and in models with frictionless and sticky expectations. The evidence from data is based on \cite{psjmMPC2008}, Table ~5 and \cite{brodaParker} (the lack of reaction of consumption in quarter $-1$, ``$\sim0$'' before the payment is received). The ``\#N/A'' indicates that, to our knowledge, the literature does not estimate the reaction in quarters 2 through 4.
       \normalsize
     \end{flushleft}
@@ -903,6 +903,7 @@ pick the $\Pi$ satisfying:
   { \includegraphics[width=1.0\textwidth]{./Figures/uCostvsPiInv}}
 
   
+
 \footnotesize Notes: The figure shows how the utility costs of updating $\omega$ depend on the probability of updating of aggregate information $\Pi$ in the SOE model.
 \end{figure}
 
@@ -978,7 +979,6 @@ While a number of previous papers have proffered the idea that inattention (or i
 In future work, it would be interesting to enrich the model so that it has plausible implications for how the degree of attention might vary over time or across people, and to connect the model to the available expectations data---for example, measures of consumer sentiment, or measures of uncertainty constructed from news sources, cf \cite{bbdUncertainty}.  Such work might be particularly useful in any attempt to understand how behavioral dynamics change between normal times in which news coverage of macroeconomic dynamics is not front-page material versus crisis times, when it {\it is}.
 
 
-%\processdelayedfloats
 
 \small
 \bibliography{economics,\texname,\texname-Add}
@@ -994,4 +994,4 @@ In future work, it would be interesting to enrich the model so that it has plaus
 }{}
 % \end{Web}
 
-\appendix\input{./cAndCwithStickyE-App.texinput}\end{document}
+\appendix\input{./cAndCwithStickyE-App.texinput}\appendix\input{./cAndCwithStickyE-App.texinput}\end{document}
